@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@types/navermaps": "^3.6.1",
     "@types/styled-components": "^5.1.26",
     "gh-pages": "^4.0.0"
   }
